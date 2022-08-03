@@ -37,9 +37,22 @@ class Crossover:
     ...
 
 class RandomSampleSelection:
+    """ Select individuals from a population in a purely randomic way.
+    """
 
-    def __init__(self, n=None, frac=1):
+    def __init__(self, n=None, frac = 1.0 ):
+        self.n_prop = n
         self.frac = frac
 
     def __call__(self, population):
         ...
+
+class SelectWithElitism:
+    ...
+
+class SelectionWheel:
+    ...
+
+class SelectionWindow:
+    ...
+

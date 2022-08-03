@@ -1,6 +1,6 @@
 # Genus
 
-Accordingly to the Cambridge online dictionary `genus` means a group of plants or animals closely related than a family, but less than a species. 
+Accordingly to the Cambridge online dictionary, 'genus' means a group of plants or animals closely related than a family, but less than a species. 'Genes' is related to the part of DNA that controls several aspect from the cells development. So, `genos` is somehow in the middle of this words and Gino and Geno is country song artists duo here in Brazil.
 
 ## Another meta-heuristic population based library
 
